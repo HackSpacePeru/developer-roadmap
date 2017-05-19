@@ -7,8 +7,8 @@ Superpoderes para crear cosas geniales
 
 ## ☑ TODO
 
-- [X] Emacs
-- [X] ssg
+- [X] emacs
+- [X] ssh
 - [X] awesome
 - [X] zsh
 - [X] tiny terminal
