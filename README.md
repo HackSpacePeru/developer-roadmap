@@ -32,7 +32,7 @@ For the backend, we would prefer Javascript and Python for the full time plus I 
 
 ## 👷 DevOps Roadmap
 
-![](https://i.imgur.com/4yJ9r79.png)
+![](http://i.imgur.com/2PDotih.png)
 
 <br>
 
