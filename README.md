@@ -7,12 +7,6 @@ Below you find a set of charts demonstrating the paths that you can take and the
 If you think that these can be improved in anyway, please do suggest.
 
 
-***
-
-<p align="center"><b> Want to learn something new?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> where I teach people</p>
-
-***
-
 ## 🚀 Introduction
 
 ![](https://i.imgur.com/pM3o8Va.png)
@@ -38,7 +32,7 @@ For the backend, we would prefer Javascript and Python for the full time plus I 
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, we will continue to improve this, so you might want to watch/star this repository to revisit.
 
 ## ☑ TODO
 
@@ -57,7 +51,7 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on Twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
+- Firs developed by kamranahmed.se@gmail.com or on Twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
 
 ## Sponsored By
 
